@@ -2,8 +2,4 @@
 
 - 🔭 Hoje trabalho com Suporte Técnico
 - 🌱 Estudando Linux e AWS
-
-<div>
-<a href="https://github.com/eliezershell">
-<img height="180em" src="https://github-readme-status.vercel.app/api?username=eliezershell&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+- :bar_chart:	Faço Scripts em Bash para automação de processos [Consulte meus repositórios]
