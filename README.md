@@ -1,9 +1,8 @@
-### Olá, eu sou o Eliezer Ribeiro! 👋
+### Olá, eu sou Eliezer Ribeiro! 👋
 
-- 🔭 Hoje trabalho com Suporte Técnico
-- 🌱 Estudando Linux e AWS
-- :bar_chart:	Faço Scripts em Bash para automação de processos [Consulte meus repositórios]
-- :envelope_with_arrow:	Contato: [eliezersilva453@gmail.com]
+- 🔭 Atualmente, trabalho como Analista de Suporte Técnico.
+- 🌱 Estudo Linux e AWS.
+- :bar_chart: Tenho experiência em criar Scripts em Bash para automação de processos. [Confira meus repositórios]
+- :envelope_with_arrow: Entre em contato comigo pelo e-mail: [eliezersilva453@gmail.com](mailto:eliezersilva453@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eliezer%20Ribeiro-blue)](https://www.linkedin.com/in/elinux)
-
